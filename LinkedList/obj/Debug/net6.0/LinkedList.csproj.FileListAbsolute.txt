@@ -1,0 +1,15 @@
+/home/kamil/RiderProjects/LinkedList/LinkedList/bin/Debug/net6.0/LinkedList
+/home/kamil/RiderProjects/LinkedList/LinkedList/bin/Debug/net6.0/LinkedList.deps.json
+/home/kamil/RiderProjects/LinkedList/LinkedList/bin/Debug/net6.0/LinkedList.runtimeconfig.json
+/home/kamil/RiderProjects/LinkedList/LinkedList/bin/Debug/net6.0/LinkedList.dll
+/home/kamil/RiderProjects/LinkedList/LinkedList/bin/Debug/net6.0/LinkedList.pdb
+/home/kamil/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.csproj.AssemblyReference.cache
+/home/kamil/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/home/kamil/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.AssemblyInfoInputs.cache
+/home/kamil/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.AssemblyInfo.cs
+/home/kamil/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.csproj.CoreCompileInputs.cache
+/home/kamil/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.dll
+/home/kamil/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/refint/LinkedList.dll
+/home/kamil/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.pdb
+/home/kamil/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.genruntimeconfig.cache
+/home/kamil/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/ref/LinkedList.dll
